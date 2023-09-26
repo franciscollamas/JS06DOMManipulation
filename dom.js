@@ -144,7 +144,7 @@ users.forEach(user => {
 
 })
 
-
+////////
 // EGERSISIO
 // 1. Agregar las bandas
 // PUSH 
